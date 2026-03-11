@@ -1,0 +1,8 @@
+INFO: Server started
+INFO: User login successful
+WARNING: High CPU usage
+ERROR: Database connection failed
+INFO: File uploaded
+WARNING: Memory usage high
+ERROR: Payment service failed
+INFO: User logout
